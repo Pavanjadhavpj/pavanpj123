@@ -3,16 +3,16 @@
 <h3 align="center">Java Developer</h3>
 
  <h2 align="center">Project completed  </h2>    1.Loan-Granting-System
-                        (https://github.com/aakashsirsart/Loan-Granting-System)</br>
+                        (https://github.com/Loan-Granting-System)</br>
                         2.Insurance-Management-Project
-                        (https://github.com/aakashsirsart/Insurance-Management-Project)</br>
+                        (https://github.com/Insurance-Management-Project)</br>
 
                      💬 Ask me about *Java, Spring, Spring Boot, SQL, MySQL, Hibernate, Collection Framework*
                      📫 How to reach me *pavanjadhav00001@gmail.com*
                      ⚡ Fun fact *I think I am funny 😁*
 <p align="left">
-<a href="https://linkedin.com/in/aakash sirsat" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" alt="aakash sirsat" height="30" width="40" /></a>
-<a href="https://instagram.com/aakash_2000._" target="blank"><img align="center" src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="aakash_2000._"(https://www.instagram.com/pavan_jadhav3602?igsh=cHg2cmdvZGdpZ2dl&utm_source=qr) height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aakash sirsat" target="blank"><img align="center" src="[https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png](https://www.linkedin.com/in/pavan-jadhav-6985b0271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" alt="pavanjadhav" height="30" width="40" /></a>
+<a href="https://instagram.com/aakash_2000._" target="blank"><img align="center" src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="pavanjadhav"(https://www.instagram.com/pavan_jadhav3602?igsh=cHg2cmdvZGdpZ2dl&utm_source=qr) height="30" width="40" /></a>
 </p>
 <br>
 
